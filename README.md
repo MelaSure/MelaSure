@@ -6,7 +6,8 @@
 
 <h2>📄Certifications</h2>
 
-- [Qualys Vulnerability Management Foundations](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Qualys Vulnerability Management Foundations](https://drive.google.com/file/d/1v3M0LDGdARFSg3ypARIx_32l7Np6LqAR/view?usp=sharing)
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
